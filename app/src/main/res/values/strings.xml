@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CascadeBlocks Quest</string>
+    <string name="in_app_data_policy">In-App Data Policy</string>
+    <string name="app_notification">Notification</string>
+    <string name="app_message">Message</string>
+    <string name="app_link">Link</string>
+    <string name="web_access_for_html_data_consent">web_access_for_html_data_consent</string>
+    <string name="toast_icon">Toast Icon</string>
+    <string name="tips">Tips</string>
+
+    <string name="adjust_app_token">fsyq8b6rxukg</string> <!-- Replace Value with Adjust Dev Key -->
+    <string name="adjust_event_first_recharge_success">ozosrw</string>
+    <string name="adjust_event_recharge_success">vb69ng</string>
+    <string name="adjust_event_register_success">swrlrn</string>
+    <string name="adjust_switch">1</string>
+
+    <string name="app_api_url">https://backend.madgamingdev.com/api/gameid?appid=</string>
+    <string name="app_id">97CC</string>
+    <string name="facebook_app_id">759046769068371</string>
+    <string name="facebook_client_token">d89ed59f34bdef0f5fa7f3b16fe4703e</string>
+
+</resources>

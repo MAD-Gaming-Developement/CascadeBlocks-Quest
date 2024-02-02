@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="app_bg">#ececec</color>
+    <color name="btn_color">#5463ff</color>
+    <color name="text_color">#ffc300</color>
+
+    <color name="colorButton">#FF5722</color>
+    <color name="background">#1E88E5</color>
+    <color name="btn_red">#EF5350</color>
+    <color name="yellow">#F9A825</color>
+    <color name="btn_white">#D9D9D9</color>
+    <color name="transparent">#00000000</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="accept">#FFFFFF</color>
+    <color name="status">#2E98FE</color>
+
+
+    <color name="colorDw">#ff1086e6</color>
+    <color name="colorDwDark">#ff1d9aff</color>
+
+</resources>
